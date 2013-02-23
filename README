@@ -15,7 +15,7 @@ Installation Instructions:
 1: Copy this folder into your computer:
 
 2: Open Command Prompt/Terminal and Change to the top level directory of the application and run the following command:
-$ pyhton manage.py runserver
+$ python manage.py runserver
 
 3: Open your browser and run http://localhost:8000 [Your port number may be different depending on your settings]
 
